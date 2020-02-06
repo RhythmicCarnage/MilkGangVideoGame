@@ -1,0 +1,1201 @@
+
+editors\gfx\guru-forexe.ico
+languagebank\english\textfiles\guru-wordcount.ini
+languagebank\english\textfiles\guru-words.txt
+audiobank\misc\silence.wav
+audiobank\misc\explode.wav
+audiobank\misc\ammo.wav
+audiobank\misc\bullet_flyby_01.wav
+audiobank\misc\bullet_flyby_02.wav
+audiobank\misc\bullet_flyby_03.wav
+audiobank\misc\bullet_flyby_04.wav
+scriptbank\gameloop.lua
+scriptbank\gameplayercontrol.lua
+scriptbank\global.lua
+scriptbank\music.lua
+languagebank\english\artwork\watermark\gameguru-watermark-1024x768.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1152x864.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1280x720.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1280x800.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1280x960.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1366x768.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1440x900.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1600x1200.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1600x900.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1680x1050.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1920x1080.jpg
+languagebank\english\artwork\watermark\gameguru-watermark-1920x1200.jpg
+scriptbank\ai\ai_meleebiter.lua
+scriptbank\ai\ai_patrol.lua
+scriptbank\ai\module_agro.lua
+scriptbank\ai\module_cameraoverride.lua
+scriptbank\ai\module_combatcore.lua
+scriptbank\ai\module_combateffects.lua
+scriptbank\ai\module_combatmelee.lua
+scriptbank\ai\module_combatshoot.lua
+scriptbank\ai\module_core.lua
+scriptbank\ai\module_neutral.lua
+scriptbank\images\images folder.txt
+audiobank\materials\0grassa1.wav
+audiobank\materials\0grassa2.wav
+audiobank\materials\0grassa3.wav
+audiobank\materials\0grassa4.wav
+audiobank\materials\0grassd.wav
+audiobank\materials\0grassi.wav
+audiobank\materials\0grasss.wav
+audiobank\materials\10sillya1.wav
+audiobank\materials\10sillya2.wav
+audiobank\materials\10sillya3.wav
+audiobank\materials\10sillya4.wav
+audiobank\materials\10sillyd.wav
+audiobank\materials\10sillyi.wav
+audiobank\materials\10sillys.wav
+audiobank\materials\11bathrooma1.wav
+audiobank\materials\11bathrooma2.wav
+audiobank\materials\11bathrooma3.wav
+audiobank\materials\11bathrooma4.wav
+audiobank\materials\12cobblea1.wav
+audiobank\materials\12cobblea2.wav
+audiobank\materials\12cobblea3.wav
+audiobank\materials\12cobblea4.wav
+audiobank\materials\13gravela1.wav
+audiobank\materials\13gravela2.wav
+audiobank\materials\13gravela3.wav
+audiobank\materials\13gravela4.wav
+audiobank\materials\14metala1.wav
+audiobank\materials\14metala2.wav
+audiobank\materials\14metala3.wav
+audiobank\materials\14metala4.wav
+audiobank\materials\15stonea1.wav
+audiobank\materials\15stonea2.wav
+audiobank\materials\15stonea3.wav
+audiobank\materials\15stonea4.wav
+audiobank\materials\16oldwooda1.wav
+audiobank\materials\16oldwooda2.wav
+audiobank\materials\16oldwooda3.wav
+audiobank\materials\16oldwooda4.wav
+audiobank\materials\17wadinga1.wav
+audiobank\materials\17wadinga2.wav
+audiobank\materials\17wadinga3.wav
+audiobank\materials\17wadinga4.wav
+audiobank\materials\17wadingd.wav
+audiobank\materials\17wadingi.wav
+audiobank\materials\17wadings.wav
+audiobank\materials\18underwatera1.wav
+audiobank\materials\18underwatera2.wav
+audiobank\materials\18underwatera3.wav
+audiobank\materials\18underwatera4.wav
+audiobank\materials\18underwaterd.wav
+audiobank\materials\18underwateri.wav
+audiobank\materials\18underwaters.wav
+audiobank\materials\1stonea1.wav
+audiobank\materials\1stonea2.wav
+audiobank\materials\1stonea3.wav
+audiobank\materials\1stonea4.wav
+audiobank\materials\1stoned.wav
+audiobank\materials\1stonei.wav
+audiobank\materials\1stones.wav
+audiobank\materials\2metala1.wav
+audiobank\materials\2metala2.wav
+audiobank\materials\2metala3.wav
+audiobank\materials\2metala4.wav
+audiobank\materials\2metald.wav
+audiobank\materials\2metali.wav
+audiobank\materials\2metals.wav
+audiobank\materials\3wooda1.wav
+audiobank\materials\3wooda2.wav
+audiobank\materials\3wooda3.wav
+audiobank\materials\3wooda4.wav
+audiobank\materials\3woodd.wav
+audiobank\materials\3woodi.wav
+audiobank\materials\3woods.wav
+audiobank\materials\4glassa1.wav
+audiobank\materials\4glassa2.wav
+audiobank\materials\4glassa3.wav
+audiobank\materials\4glassa4.wav
+audiobank\materials\4glassd.wav
+audiobank\materials\4glassi.wav
+audiobank\materials\4glasss.wav
+audiobank\materials\5liquida1.wav
+audiobank\materials\5liquida2.wav
+audiobank\materials\5liquida3.wav
+audiobank\materials\5liquida4.wav
+audiobank\materials\5liquidd.wav
+audiobank\materials\5liquidi.wav
+audiobank\materials\5liquids.wav
+audiobank\materials\6clotha1.wav
+audiobank\materials\6clotha2.wav
+audiobank\materials\6clotha3.wav
+audiobank\materials\6clotha4.wav
+audiobank\materials\6clothd.wav
+audiobank\materials\6clothi.wav
+audiobank\materials\6cloths.wav
+audiobank\materials\7druma1.wav
+audiobank\materials\7druma2.wav
+audiobank\materials\7druma3.wav
+audiobank\materials\7druma4.wav
+audiobank\materials\7drumd.wav
+audiobank\materials\7drumi.wav
+audiobank\materials\7drums.wav
+audiobank\materials\8tina1.wav
+audiobank\materials\8tina2.wav
+audiobank\materials\8tina3.wav
+audiobank\materials\8tina4.wav
+audiobank\materials\8tind.wav
+audiobank\materials\8tini.wav
+audiobank\materials\8tins.wav
+audiobank\materials\materialdefault.txt
+audiobank\music\theescape\battle.ogg
+audiobank\music\theescape\default.ogg
+audiobank\music\theescape\final.ogg
+audiobank\music\theescape\finalassault.ogg
+audiobank\voices\player\breathhold.wav
+audiobank\voices\player\breathout.wav
+audiobank\voices\player\breathoutfast.wav
+audiobank\voices\player\drown.wav
+audiobank\voices\player\finalmoan.wav
+audiobank\voices\player\finalmoan2.wav
+audiobank\voices\player\gaspforair.wav
+audiobank\voices\player\hardland.wav
+audiobank\voices\player\heartbeat.wav
+audiobank\voices\player\hurt1.wav
+audiobank\voices\player\hurt2.wav
+audiobank\voices\player\hurt3.wav
+audiobank\voices\player\jetpack.wav
+audiobank\voices\player\land.wav
+audiobank\voices\player\leap.wav
+audiobank\voices\player\noammo.wav
+audiobank\voices\player\punched1.wav
+audiobank\voices\player\punched2.wav
+audiobank\voices\player\punched3.wav
+audiobank\voices\player\spawn.wav
+audiobank\voices\player\swim.wav
+audiobank\voices\player\waterin.wav
+audiobank\voices\player\waterout.wav
+audiobank\voices\characters\die01.wav
+audiobank\voices\characters\die02.wav
+audiobank\voices\characters\die03.wav
+audiobank\voices\characters\die04.wav
+audiobank\character\soldier\onaggro\0.wav
+audiobank\character\soldier\onaggro\1.wav
+audiobank\character\soldier\onaggro\2.wav
+audiobank\character\soldier\onaggro\3.wav
+audiobank\character\soldier\onalert\alerts-go-here.txt
+audiobank\character\soldier\ondeath\0.wav
+audiobank\character\soldier\ondeath\1.wav
+audiobank\character\soldier\ondeath\2.wav
+audiobank\character\soldier\onhurt\0.wav
+audiobank\character\soldier\onhurt\1.wav
+audiobank\character\soldier\onhurt\2.wav
+audiobank\character\soldier\onhurt\3.wav
+audiobank\character\soldier\onhurtplayer\0.wav
+audiobank\character\soldier\onhurtplayer\1.wav
+audiobank\character\soldier\onhurtplayer\2.wav
+audiobank\character\soldier\onidle\idlenoises-go-here.txt
+audiobank\character\soldier\oninteract\interacts-go-here.txt
+databank\arrowdown.png
+databank\arrowup.png
+databank\blip1.png
+databank\blip2.png
+databank\blip3.png
+databank\blip4.png
+databank\bloodsplash1.png
+databank\bloodsplash2.png
+databank\bloodsplash3.png
+databank\bloodsplash4.png
+databank\bloodsplash5.png
+databank\bloodsplash6.png
+databank\bloodsplash7.png
+databank\bloodsplash8.png
+databank\compass.png
+databank\indicator.png
+databank\needle.png
+databank\objective.png
+databank\radarback.png
+savegames\readme.txt
+titlesbank\default\\about-hover.png
+titlesbank\default\\about.lua
+titlesbank\default\\about.png
+titlesbank\default\\back-hover.png
+titlesbank\default\\back.png
+titlesbank\default\\blank-hover.png
+titlesbank\default\\blank.png
+titlesbank\default\\continue-hover.png
+titlesbank\default\\continue.png
+titlesbank\default\\cursor-33.png
+titlesbank\default\\cursor-big.png
+titlesbank\default\\cursor.png
+titlesbank\default\\exit-to-desktop-hover.png
+titlesbank\default\\exit-to-desktop.png
+titlesbank\default\\fov.png
+titlesbank\default\\game-paused-title.png
+titlesbank\default\\game-won-title.png
+titlesbank\default\\gamemenu.lua
+titlesbank\default\\graphics-settings-hover.png
+titlesbank\default\\graphics-settings-title.png
+titlesbank\default\\graphics-settings.png
+titlesbank\default\\graphics.lua
+titlesbank\default\\high-hover.png
+titlesbank\default\\high-selected.png
+titlesbank\default\\high.png
+titlesbank\default\\highest-hover.png
+titlesbank\default\\highest-selected.png
+titlesbank\default\\highest.png
+titlesbank\default\\level-complete-title.png
+titlesbank\default\\load-game-hover.png
+titlesbank\default\\load-game.png
+titlesbank\default\\loadgame.lua
+titlesbank\default\\loading-bar-empty.png
+titlesbank\default\\loading-bar-full.png
+titlesbank\default\\loading-dot.png
+titlesbank\default\\loading-text.png
+titlesbank\default\\loading.lua
+titlesbank\default\\lose.lua
+titlesbank\default\\low-hover.png
+titlesbank\default\\low-selected.png
+titlesbank\default\\low.png
+titlesbank\default\\lowest-hover.png
+titlesbank\default\\lowest-selected.png
+titlesbank\default\\lowest.png
+titlesbank\default\\main-menu-hover.png
+titlesbank\default\\main-menu.png
+titlesbank\default\\medium-hover.png
+titlesbank\default\\medium-selected.png
+titlesbank\default\\medium.png
+titlesbank\default\\music-label.png
+titlesbank\default\\nextlevel.lua
+titlesbank\default\\quit-game-hover.png
+titlesbank\default\\quit-game.png
+titlesbank\default\\resume-game-hover.png
+titlesbank\default\\resume-game.png
+titlesbank\default\\return-to-desktop.png
+titlesbank\default\\return-to-desktop_hover.png
+titlesbank\default\\save-game-hover.png
+titlesbank\default\\save-game.png
+titlesbank\default\\savegame.lua
+titlesbank\default\\slider-bar-dot.png
+titlesbank\default\\slider-bar-empty.png
+titlesbank\default\\slider-bar-full.png
+titlesbank\default\\sound-effects-label.png
+titlesbank\default\\sound-levels-hover.png
+titlesbank\default\\sound-levels-title.png
+titlesbank\default\\sound-levels.png
+titlesbank\default\\sounds.lua
+titlesbank\default\\start-hover.png
+titlesbank\default\\start.png
+titlesbank\default\\title.lua
+titlesbank\default\\title.ogg
+titlesbank\default\\visit-reloaded-website.png
+titlesbank\default\\visit-reloaded-website_hover.png
+titlesbank\default\\visit-website-hover.png
+titlesbank\default\\visit-website.png
+titlesbank\default\\win.lua
+titlesbank\cursorcontrol.lua
+titlesbank\resolutions.lua
+titlesbank\fillgameslots.lua
+titlesbank\gamedata.lua
+titlesbank\restoregame.lua
+effectbank\reloaded\apbr_anim.blob
+effectbank\reloaded\apbr_anim.fx
+effectbank\reloaded\apbr_anim8bone.blob
+effectbank\reloaded\apbr_anim8bone.fx
+effectbank\reloaded\apbr_anim8bonewithtran.blob
+effectbank\reloaded\apbr_anim8bonewithtran.fx
+effectbank\reloaded\apbr_animwithtran.blob
+effectbank\reloaded\apbr_animwithtran.fx
+effectbank\reloaded\apbr_basic.blob
+effectbank\reloaded\apbr_basic.fx
+effectbank\reloaded\apbr_core.fx
+effectbank\reloaded\apbr_illum.blob
+effectbank\reloaded\apbr_illum.fx
+effectbank\reloaded\apbr_illum_anim.blob
+effectbank\reloaded\apbr_illum_anim.fx
+effectbank\reloaded\apbr_lightmapped.blob
+effectbank\reloaded\apbr_lightmapped.fx
+effectbank\reloaded\apbr_lightmapped_illum.blob
+effectbank\reloaded\apbr_lightmapped_illum.fx
+effectbank\reloaded\apbr_noalpha.blob
+effectbank\reloaded\apbr_noalpha.fx
+effectbank\reloaded\apbr_terrain.blob
+effectbank\reloaded\apbr_terrain.fx
+effectbank\reloaded\apbr_tree.blob
+effectbank\reloaded\apbr_tree.fx
+effectbank\reloaded\apbr_treea.blob
+effectbank\reloaded\apbr_treea.fx
+effectbank\reloaded\apbr_veg.blob
+effectbank\reloaded\apbr_veg.fx
+effectbank\reloaded\cascadeshadows.fx
+effectbank\reloaded\character_basic.blob
+effectbank\reloaded\character_basic.fx
+effectbank\reloaded\character_editor.blob
+effectbank\reloaded\character_editor.fx
+effectbank\reloaded\character_static.blob
+effectbank\reloaded\character_static.fx
+effectbank\reloaded\character_transparency.blob
+effectbank\reloaded\character_transparency.fx
+effectbank\reloaded\constantbuffers.blob
+effectbank\reloaded\constantbuffers.fx
+effectbank\reloaded\decal_animate4.blob
+effectbank\reloaded\decal_animate4.fx
+effectbank\reloaded\decal_animate8.blob
+effectbank\reloaded\decal_animate8.fx
+effectbank\reloaded\decal_animatestrip6.blob
+effectbank\reloaded\decal_animatestrip6.fx
+effectbank\reloaded\decal_basic.blob
+effectbank\reloaded\decal_basic.fx
+effectbank\reloaded\dynamicterrainshadow_basic.blob
+effectbank\reloaded\dynamicterrainshadow_basic.fx
+effectbank\reloaded\ebe_basic.blob
+effectbank\reloaded\ebe_basic.fx
+effectbank\reloaded\effect_scroll.blob
+effectbank\reloaded\effect_scroll.fx
+effectbank\reloaded\effect_wave.blob
+effectbank\reloaded\effect_wave.fx
+effectbank\reloaded\entity_anim.blob
+effectbank\reloaded\entity_anim.fx
+effectbank\reloaded\entity_basic.blob
+effectbank\reloaded\entity_basic.fx
+effectbank\reloaded\entity_core.blob
+effectbank\reloaded\entity_core.fx
+effectbank\reloaded\entity_cube.blob
+effectbank\reloaded\entity_cube.fx
+effectbank\reloaded\entity_cubealpha.blob
+effectbank\reloaded\entity_cubealpha.fx
+effectbank\reloaded\entity_cubeambience.blob
+effectbank\reloaded\entity_cubeambience.fx
+effectbank\reloaded\entity_transparency.blob
+effectbank\reloaded\entity_transparency.fx
+effectbank\reloaded\entity_water.blob
+effectbank\reloaded\entity_water.fx
+effectbank\reloaded\gui_basic.blob
+effectbank\reloaded\gui_basic.fx
+effectbank\reloaded\gui_diffuse.blob
+effectbank\reloaded\gui_diffuse.fx
+effectbank\reloaded\gui_showdepth.blob
+effectbank\reloaded\gui_wireframe.blob
+effectbank\reloaded\gui_wireframe.fx
+effectbank\reloaded\post-bloom.blob
+effectbank\reloaded\post-bloom.fx
+effectbank\reloaded\post-core.blob
+effectbank\reloaded\post-core.fx
+effectbank\reloaded\post-none.blob
+effectbank\reloaded\post-none.fx
+effectbank\reloaded\post-rift.blob
+effectbank\reloaded\post-rift.fx
+effectbank\reloaded\post-sao.blob
+effectbank\reloaded\post-sao.fx
+effectbank\reloaded\scatter.blob
+effectbank\reloaded\scatter.fx
+effectbank\reloaded\settings.blob
+effectbank\reloaded\settings.fx
+effectbank\reloaded\shadow_basic.blob
+effectbank\reloaded\shadow_basic.fx
+effectbank\reloaded\skyscroll_basic.blob
+effectbank\reloaded\skyscroll_basic.fx
+effectbank\reloaded\sky_basic.blob
+effectbank\reloaded\sky_basic.fx
+effectbank\reloaded\sky_core.blob
+effectbank\reloaded\sky_core.fx
+effectbank\reloaded\sky_scroll.blob
+effectbank\reloaded\sky_scroll.fx
+effectbank\reloaded\sprite_basic.blob
+effectbank\reloaded\sprite_basic.fx
+effectbank\reloaded\static_basic.blob
+effectbank\reloaded\static_basic.fx
+effectbank\reloaded\terrain_basic.blob
+effectbank\reloaded\terrain_basic.fx
+effectbank\reloaded\treea_basic.blob
+effectbank\reloaded\treea_basic.fx
+effectbank\reloaded\tree_basic.blob
+effectbank\reloaded\tree_basic.fx
+effectbank\reloaded\vegetation_basic.blob
+effectbank\reloaded\vegetation_basic.fx
+effectbank\reloaded\water_basic.blob
+effectbank\reloaded\water_basic.fx
+effectbank\reloaded\weapon_basic.blob
+effectbank\reloaded\weapon_basic.fx
+effectbank\reloaded\weapon_bone.blob
+effectbank\reloaded\weapon_bone.fx
+effectbank\reloaded\media\aged.png
+effectbank\reloaded\media\blank_black.dds
+effectbank\reloaded\media\blank_high_s.dds
+effectbank\reloaded\media\blank_i.dds
+effectbank\reloaded\media\blank_low_s.dds
+effectbank\reloaded\media\blank_medium_s.dds
+effectbank\reloaded\media\blank_n.dds
+effectbank\reloaded\media\blank_none_s.dds
+effectbank\reloaded\media\blank_o.dds
+effectbank\reloaded\media\circle.dds
+effectbank\reloaded\media\cube.dds
+effectbank\reloaded\media\decal.dds
+effectbank\reloaded\media\detailmap.dds
+effectbank\reloaded\media\detail_default.dds
+effectbank\reloaded\media\heightmap.dds
+effectbank\reloaded\media\ibr.png
+effectbank\reloaded\media\sun.dds
+effectbank\reloaded\media\water.dds
+effectbank\reloaded\media\waves2.dds
+effectbank\reloaded\media\white_d.dds
+effectbank\explosion\animatedspark.dds
+effectbank\explosion\concretechunk.dbo
+effectbank\explosion\concretechunk.dds
+
+effectbank\explosion\darksmoke.dds
+effectbank\explosion\explosion2.dds
+effectbank\explosion\explosion3.dds
+effectbank\explosion\explosion4.dds
+effectbank\explosion\explosion4.png
+effectbank\explosion\explosion5.dds
+effectbank\explosion\explosion5.png
+effectbank\explosion\fireball.dds
+effectbank\explosion\metalchunk.dbo
+effectbank\explosion\metalchunk.dds
+
+effectbank\explosion\rollingsmoke.dds
+effectbank\explosion\rubble.dbo
+effectbank\explosion\rubble.dds
+
+effectbank\particles\64smoke2.dds
+effectbank\particles\flame.dds
+effectbank\particles\flare.dds
+effectbank\particles\flare.png
+effectbank\particles\flowerpuff.dds
+effectbank\particles\flowerpuff.png
+fontbank\fpscr-font-128px-subimages.fnt
+fontbank\fpscr-font-128px.png
+fontbank\fpscr-font-12px.png
+fontbank\fpscr-font-24px-subimages.fnt
+fontbank\fpscr-font-24px.png
+fontbank\fpscr-font-25px-subimages.fnt
+fontbank\fpscr-font-25px.png
+fontbank\fpscr-font-36px-multiplayer-subimages.fnt
+fontbank\fpscr-font-36px-multiplayer.png
+fontbank\fpscr-font-36px-subimages.fnt
+fontbank\fpscr-font-36px.png
+fontbank\fpscr-font-40px-subimages.fnt
+fontbank\fpscr-font-40px.png
+fontbank\fpscr-font-72px-subimages.fnt
+fontbank\fpscr-font-72px.png
+fontbank\fpscr-font-outline72-subimages.fnt
+fontbank\fpscr-font-outline72.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-health-panel.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-assault.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-bow.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-grenade.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-handgun.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-infinity.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-knife.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-none.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-riffle.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-rpg.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-shotgun.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-staff.png
+languagebank\neutral\gamecore\huds\ammohealth\ammo-icon-stone.png
+languagebank\neutral\gamecore\huds\ammohealth\fantasy-bar.png
+languagebank\neutral\gamecore\huds\ammohealth\health-icon.png
+languagebank\neutral\gamecore\huds\ammohealth\horizontal-line.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-assault.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-bow.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-colt.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-grenade.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-knife.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-mace.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-magnum.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-riffle.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-rpg.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-shotgun.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-staff.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-stone.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-sword.png
+languagebank\neutral\gamecore\huds\ammohealth\icon-uzi.png
+languagebank\neutral\gamecore\huds\ammohealth\lives-icon.png
+languagebank\neutral\gamecore\huds\ammohealth\vertical-line.png
+languagebank\neutral\gamecore\huds\sliders\bar-blue-end.png
+languagebank\neutral\gamecore\huds\sliders\bar-blue-start.png
+languagebank\neutral\gamecore\huds\sliders\bar-blue.png
+languagebank\neutral\gamecore\huds\sliders\bar-cyan-end.png
+languagebank\neutral\gamecore\huds\sliders\bar-cyan-start.png
+languagebank\neutral\gamecore\huds\sliders\bar-cyan.png
+languagebank\neutral\gamecore\huds\sliders\bar-green-end.png
+languagebank\neutral\gamecore\huds\sliders\bar-green-start.png
+languagebank\neutral\gamecore\huds\sliders\bar-green.png
+languagebank\neutral\gamecore\huds\sliders\bar-orange-end.png
+languagebank\neutral\gamecore\huds\sliders\bar-orange-start.png
+languagebank\neutral\gamecore\huds\sliders\bar-orange.png
+languagebank\neutral\gamecore\huds\sliders\bar-purple-end.png
+languagebank\neutral\gamecore\huds\sliders\bar-purple-start.png
+languagebank\neutral\gamecore\huds\sliders\bar-purple.png
+languagebank\neutral\gamecore\huds\sliders\bar-red-end.png
+languagebank\neutral\gamecore\huds\sliders\bar-red-start.png
+languagebank\neutral\gamecore\huds\sliders\bar-red.png
+languagebank\neutral\gamecore\huds\sliders\bar-yellow-end.png
+languagebank\neutral\gamecore\huds\sliders\bar-yellow-start.png
+languagebank\neutral\gamecore\huds\sliders\bar-yellow.png
+languagebank\neutral\gamecore\huds\sliders\bar.png
+languagebank\neutral\gamecore\huds\sliders\dropdown.png
+languagebank\neutral\gamecore\huds\sliders\fill.png
+languagebank\neutral\gamecore\huds\sliders\glass-tube.png
+languagebank\neutral\gamecore\huds\sliders\handle.png
+languagebank\neutral\gamecore\huds\sliders\minmaxbutton.png
+languagebank\neutral\gamecore\huds\sliders\minmaxbuttonlit.png
+languagebank\neutral\gamecore\huds\sliders\panelbottom.png
+languagebank\neutral\gamecore\huds\sliders\panelmiddle.png
+languagebank\neutral\gamecore\huds\sliders\paneltop.png
+languagebank\neutral\gamecore\huds\panels\panel_bl.png
+languagebank\neutral\gamecore\huds\panels\panel_bm.png
+languagebank\neutral\gamecore\huds\panels\panel_br.png
+languagebank\neutral\gamecore\huds\panels\panel_ml.png
+languagebank\neutral\gamecore\huds\panels\panel_mm.png
+languagebank\neutral\gamecore\huds\panels\panel_mr.png
+languagebank\neutral\gamecore\huds\panels\panel_tl.png
+languagebank\neutral\gamecore\huds\panels\panel_tm.png
+languagebank\neutral\gamecore\huds\panels\panel_tr.png
+gamecore\decals\bloodsplat\decal.dds
+gamecore\decals\bloodsplat\decalspec.txt
+gamecore\decals\bloodsplat\readme.txt
+gamecore\decals\impact\decal.dds
+gamecore\decals\impact\decal.png
+gamecore\decals\impact\decalspec.txt
+gamecore\decals\gunsmoke\decal.dds
+gamecore\decals\gunsmoke\decalspec.txt
+gamecore\decals\smoke1\decal.dds
+gamecore\decals\smoke1\decalspec.txt
+gamecore\decals\muzzleflash4\decal.dds
+gamecore\decals\muzzleflash4\decal.png
+gamecore\decals\muzzleflash4\decalspec.txt
+gamecore\decals\splash_droplets\decal.dds
+gamecore\decals\splash_droplets\decalspec.txt
+gamecore\decals\splash_foam\decal.dds
+gamecore\decals\splash_foam\decalspec.txt
+gamecore\decals\splash_large\decal.dds
+gamecore\decals\splash_large\decal.png
+gamecore\decals\splash_large\decalspec.txt
+gamecore\decals\splash_large\info.txt
+gamecore\decals\splash_misty\decal.dds
+gamecore\decals\splash_misty\decal.png
+gamecore\decals\splash_misty\decalspec.txt
+gamecore\decals\splash_ripple\decal.dds
+gamecore\decals\splash_ripple\decalspec.txt
+gamecore\decals\splash_ripple\ripple4x4_n.dds
+gamecore\decals\splash_small\decal.dds
+gamecore\decals\splash_small\decal.png
+gamecore\decals\splash_small\decalspec.txt
+gamecore\projectiletypes\readme.txt
+gamecore\projectiletypes\tracerparticle.x
+gamecore\projectiletypes\fantasy\fireball\fireball.txt
+gamecore\projectiletypes\fantasy\fireball\fireball.x
+gamecore\projectiletypes\fantasy\fireball\fireballexplode.wav
+gamecore\projectiletypes\fantasy\fireball\fireballfly.wav
+gamecore\projectiletypes\fantasy\fireball\fireball_d.dds
+gamecore\projectiletypes\fantasy\fireball\fireball_n.dds
+gamecore\projectiletypes\fantasy\fireball\fireball_s.dds
+gamecore\projectiletypes\fantasy\magicbolt\explode.dds
+gamecore\projectiletypes\fantasy\magicbolt\explode.wav
+gamecore\projectiletypes\fantasy\magicbolt\fly.wav
+gamecore\projectiletypes\fantasy\magicbolt\magicbolt.txt
+gamecore\projectiletypes\fantasy\magicbolt\magicbolt.x
+gamecore\projectiletypes\fantasy\magicbolt\magicbolt_d.dds
+gamecore\projectiletypes\fantasy\magicbolt\magicbolt_n.dds
+gamecore\projectiletypes\fantasy\magicbolt\magicbolt_s.dds
+gamecore\projectiletypes\fantasy\magicbolt\smoke.dds
+gamecore\projectiletypes\fantasy\magicbolt\trail.dds
+gamecore\projectiletypes\modern\handgrenade\handgrenade.txt
+gamecore\projectiletypes\modern\handgrenade\handgrenade.x
+gamecore\projectiletypes\modern\handgrenade\handgrenadeexplode.wav
+gamecore\projectiletypes\modern\handgrenade\handgrenadefallhard.wav
+gamecore\projectiletypes\modern\handgrenade\handgrenadefallsoft.wav
+gamecore\projectiletypes\modern\handgrenade\handgrenade_d.dds
+gamecore\projectiletypes\modern\handgrenade\handgrenade_n.dds
+gamecore\projectiletypes\modern\handgrenade\handgrenade_s.dds
+gamecore\projectiletypes\modern\rpggrenade\rpggrenade.txt
+gamecore\projectiletypes\modern\rpggrenade\rpggrenade.x
+gamecore\projectiletypes\modern\rpggrenade\rpggrenadeexplode.wav
+gamecore\projectiletypes\modern\rpggrenade\rpggrenadefly.wav
+gamecore\projectiletypes\modern\rpggrenade\rpggrenade_d.dds
+gamecore\projectiletypes\modern\rpggrenade\rpggrenade_n.dds
+gamecore\projectiletypes\modern\rpggrenade\rpggrenade_s.dds
+gamecore\decals\dust\decal.dds
+gamecore\decals\dust\decalspec.txt
+gamecore\decals\sparks\decal.dds
+gamecore\decals\sparks\decalspec.txt
+gamecore\decals\splinters\decal.dds
+gamecore\decals\splinters\decalspec.txt
+gamecore\decals\shards\decal.dds
+gamecore\decals\shards\decalspec.txt
+gamecore\decals\blood\decal.dds
+gamecore\decals\blood\decalspec.txt
+gamecore\muzzleflash\flash4.dds
+gamecore\muzzleflash\flash51.dds
+gamecore\muzzleflash\flash9.dds
+gamecore\hudlayers\jetpack9.x
+gamecore\hudlayers\jetpack9_cube.dds
+gamecore\hudlayers\jetpack9_d.dds
+gamecore\hudlayers\jetpack9_n.dds
+gamecore\hudlayers\jetpack9_s.dds
+gamecore\hudlayers\whatarehudlayers.txt
+titlesbank\style.txt
+titlesbank\default\1280x720\about.png
+titlesbank\default\1280x720\end.png
+titlesbank\default\1280x720\loading.png
+titlesbank\default\1280x720\lost.png
+titlesbank\default\1280x720\title.png
+titlesbank\default\1280x800\about.png
+titlesbank\default\1280x800\end.png
+titlesbank\default\1280x800\loading.png
+titlesbank\default\1280x800\lost.png
+titlesbank\default\1280x800\title.png
+titlesbank\default\1366x768\about.png
+titlesbank\default\1366x768\end.png
+titlesbank\default\1366x768\loading.png
+titlesbank\default\1366x768\lost.png
+titlesbank\default\1366x768\title.png
+titlesbank\default\1440x900\about.png
+titlesbank\default\1440x900\end.png
+titlesbank\default\1440x900\loading.png
+titlesbank\default\1440x900\lost.png
+titlesbank\default\1440x900\title.png
+titlesbank\default\1600x900\about.png
+titlesbank\default\1600x900\end.png
+titlesbank\default\1600x900\loading.png
+titlesbank\default\1600x900\lost.png
+titlesbank\default\1600x900\title.png
+titlesbank\default\1680x1050\about.png
+titlesbank\default\1680x1050\end.png
+titlesbank\default\1680x1050\loading.png
+titlesbank\default\1680x1050\lost.png
+titlesbank\default\1680x1050\title.png
+titlesbank\default\1920x1080\about.png
+titlesbank\default\1920x1080\end.png
+titlesbank\default\1920x1080\loading.png
+titlesbank\default\1920x1080\lost.png
+titlesbank\default\1920x1080\title.png
+titlesbank\default\1920x1200\about.png
+titlesbank\default\1920x1200\end.png
+titlesbank\default\1920x1200\loading.png
+titlesbank\default\1920x1200\lost.png
+titlesbank\default\1920x1200\title.png
+mapbank\level_1.fpm
+skybank\cloudportal.dds
+skybank\dark\dark.x
+skybank\dark\dark_b.dds
+skybank\dark\dark_d.dds
+skybank\dark\dark_f.dds
+skybank\dark\dark_l.dds
+skybank\dark\dark_r.dds
+skybank\dark\dark_u.dds
+skybank\dark\skyspec.txt
+terrainbank\wasteland\default_d.dds
+terrainbank\wasteland\default_n.dds
+terrainbank\wasteland\detailmap.dds
+terrainbank\wasteland\mossy_d.dds
+terrainbank\wasteland\mossy_n.dds
+terrainbank\wasteland\path_d.dds
+terrainbank\wasteland\path_n.dds
+terrainbank\wasteland\rocky_d.dds
+terrainbank\wasteland\rocky_n.dds
+terrainbank\wasteland\sedimentary_d.dds
+terrainbank\wasteland\sediment_n.dds
+terrainbank\wasteland\superpalette.ter
+terrainbank\wasteland\texture_d.dds
+terrainbank\wasteland\texture_n.dds
+vegbank\dead grass\dead grass.txt
+vegbank\dead grass\grass.dds
+vegbank\dead grass\veg.x
+entitybank\\cityscape\scaffold.fpe
+entitybank\\cityscape\scaffold.dbo
+entitybank\\cityscape\
+entitybank\\cityscape\scaffold_color.dds
+entitybank\\cityscape\scaffold_albedo.dds
+entitybank\\cityscape\scaffold_normal.dds
+entitybank\\cityscape\scaffold_specular.dds
+entitybank\\cityscape\scaffold_metalness.dds
+entitybank\\cityscape\scaffold_gloss.dds
+entitybank\\cityscape\scaffold_ao.dds
+entitybank\\cityscape\scaffold_height.dds
+entitybank\\cityscape\scaffold_detail.dds
+entitybank\\cityscape\scaffold_illumination.dds
+entitybank\\cityscape\scaffold_emissive.dds
+entitybank\\cityscape\scaffold_cube.dds
+scriptbank\default.lua
+
+entitybank\\cityscape\metal_strut.fpe
+entitybank\\cityscape\metal_strut.dbo
+entitybank\\cityscape\metal_struts_d.dds
+entitybank\\cityscape\metal_struts_n.dds
+entitybank\\cityscape\metal_struts_s.dds
+entitybank\\cityscape\metal_struts_i.dds
+entitybank\\cityscape\metal_struts_o.dds
+entitybank\\cityscape\metal_struts_cube.dds
+entitybank\\cityscape\concrete_building_2.fpe
+entitybank\\cityscape\concrete_building_2.dbo
+entitybank\\cityscape\hangar_d.dds
+entitybank\\cityscape\hangar_n.dds
+entitybank\\cityscape\hangar_s.dds
+entitybank\\cityscape\hangar_i.dds
+entitybank\\cityscape\hangar_o.dds
+entitybank\\cityscape\hangar_cube.dds
+scriptbank\door.lua
+entitybank\\cityscape\concrete_building.fpe
+entitybank\\cityscape\concrete_building.dbo
+entitybank\\death valley\scenery\cinderblock wall 2.fpe
+entitybank\\death valley\scenery\cinderblock wall 2.dbo
+entitybank\\death valley\scenery\cinderblock_d.dds
+entitybank\\death valley\scenery\cinderblock_n.dds
+entitybank\\death valley\scenery\cinderblock_s.dds
+entitybank\\death valley\scenery\
+entitybank\\death valley\scenery\cinderblock_i.dds
+entitybank\\death valley\scenery\cinderblock_o.dds
+entitybank\\death valley\scenery\cinderblock_cube.dds
+entitybank\\death valley\scenery\cinderblock wall 3.fpe
+entitybank\\death valley\scenery\cinderblock wall 3.dbo
+entitybank\\mega pack 03\foliage\park tree 01.fpe
+entitybank\\mega pack 03\foliage\park_tree01.dbo
+entitybank\\mega pack 03\foliage\park_tree01_d.dds
+entitybank\\mega pack 03\foliage\
+entitybank\\mega pack 03\foliage\park_tree01_color.dds
+entitybank\\mega pack 03\foliage\park_tree01_albedo.dds
+entitybank\\mega pack 03\foliage\park_tree01_normal.dds
+entitybank\\mega pack 03\foliage\park_tree01_specular.dds
+entitybank\\mega pack 03\foliage\park_tree01_metalness.dds
+entitybank\\mega pack 03\foliage\park_tree01_gloss.dds
+entitybank\\mega pack 03\foliage\park_tree01_ao.dds
+entitybank\\mega pack 03\foliage\park_tree01_height.dds
+entitybank\\mega pack 03\foliage\park_tree01_detail.dds
+entitybank\\mega pack 03\foliage\park_tree01_illumination.dds
+entitybank\\mega pack 03\foliage\park_tree01_emissive.dds
+entitybank\\mega pack 03\foliage\park_tree01_cube.dds
+entitybank\\mega pack 03\industrial\industrial (27).fpe
+entitybank\\mega pack 03\industrial\industrial (27).dbo
+entitybank\\mega pack 03\industrial\
+entitybank\\mega pack 03\industrial\industrial (27)_color.dds
+entitybank\\mega pack 03\industrial\industrial (27)_albedo.dds
+entitybank\\mega pack 03\industrial\industrial (27)_normal.dds
+entitybank\\mega pack 03\industrial\industrial (27)_specular.dds
+entitybank\\mega pack 03\industrial\industrial (27)_metalness.dds
+entitybank\\mega pack 03\industrial\industrial (27)_gloss.dds
+entitybank\\mega pack 03\industrial\industrial (27)_ao.dds
+entitybank\\mega pack 03\industrial\industrial (27)_height.dds
+entitybank\\mega pack 03\industrial\industrial (27)_detail.dds
+entitybank\\mega pack 03\industrial\industrial (27)_illumination.dds
+entitybank\\mega pack 03\industrial\industrial (27)_emissive.dds
+entitybank\\mega pack 03\industrial\industrial (27)_cube.dds
+entitybank\\mega pack 03\industrial\industrial (08) .fpe
+entitybank\\mega pack 03\industrial\industrial (08).dbo
+entitybank\\mega pack 03\industrial\industrial (04)_d.dds
+entitybank\\mega pack 03\industrial\industrial (04)_n.dds
+entitybank\\mega pack 03\industrial\industrial (04)_s.dds
+entitybank\\mega pack 03\industrial\industrial (04)_i.dds
+entitybank\\mega pack 03\industrial\industrial (04)_o.dds
+entitybank\\mega pack 03\industrial\industrial (04)_cube.dds
+entitybank\\mega pack 03\industrial\industrial (15).fpe
+entitybank\\mega pack 03\industrial\industrial (15).dbo
+entitybank\\mega pack 03\industrial\industrial (15)_color.dds
+entitybank\\mega pack 03\industrial\industrial (15)_albedo.dds
+entitybank\\mega pack 03\industrial\industrial (15)_normal.dds
+entitybank\\mega pack 03\industrial\industrial (15)_specular.dds
+entitybank\\mega pack 03\industrial\industrial (15)_metalness.dds
+entitybank\\mega pack 03\industrial\industrial (15)_gloss.dds
+entitybank\\mega pack 03\industrial\industrial (15)_ao.dds
+entitybank\\mega pack 03\industrial\industrial (15)_height.dds
+entitybank\\mega pack 03\industrial\industrial (15)_detail.dds
+entitybank\\mega pack 03\industrial\industrial (15)_illumination.dds
+entitybank\\mega pack 03\industrial\industrial (15)_emissive.dds
+entitybank\\mega pack 03\industrial\industrial (15)_cube.dds
+entitybank\\mega pack 03\industrial\industrial (10).fpe
+entitybank\\mega pack 03\industrial\industrial (10).dbo
+entitybank\\mega pack 03\industrial\industrial (10)_color.dds
+entitybank\\mega pack 03\industrial\industrial (10)_albedo.dds
+entitybank\\mega pack 03\industrial\industrial (10)_normal.dds
+entitybank\\mega pack 03\industrial\industrial (10)_specular.dds
+entitybank\\mega pack 03\industrial\industrial (10)_metalness.dds
+entitybank\\mega pack 03\industrial\industrial (10)_gloss.dds
+entitybank\\mega pack 03\industrial\industrial (10)_ao.dds
+entitybank\\mega pack 03\industrial\industrial (10)_height.dds
+entitybank\\mega pack 03\industrial\industrial (10)_detail.dds
+entitybank\\mega pack 03\industrial\industrial (10)_illumination.dds
+entitybank\\mega pack 03\industrial\industrial (10)_emissive.dds
+entitybank\\mega pack 03\industrial\industrial (10)_cube.dds
+entitybank\_markers\player start.fpe
+entitybank\_markers\arrow.dbo
+entitybank\_markers\
+entitybank\_markers\player start.dds
+scriptbank\
+player
+entitybank\\characters\combat soldier.fpe
+entitybank\\characters\masked soldier.dbo
+entitybank\\characters\
+entitybank\\characters\reloaded3_d.dds
+entitybank\\characters\reloaded3_n.dds
+entitybank\\characters\reloaded3_s.dds
+entitybank\\characters\reloaded3_i.dds
+entitybank\\characters\reloaded3_o.dds
+entitybank\\characters\reloaded3_cube.dds
+scriptbank\ai_soldier.lua
+gamecore\guns\modern\colt1911\colt1911.dbo
+
+gamecore\guns\modern\colt1911\colt1911_d.dds
+gamecore\guns\modern\colt1911\colt1911_n.dds
+gamecore\guns\modern\colt1911\colt1911_s.dds
+gamecore\guns\modern\colt1911\crosshair.dds
+gamecore\guns\modern\colt1911\dryfire.wav
+gamecore\guns\modern\colt1911\fire1.wav
+gamecore\guns\modern\colt1911\fire2.wav
+gamecore\guns\modern\colt1911\fire3.wav
+gamecore\guns\modern\colt1911\fire4.wav
+gamecore\guns\modern\colt1911\gunspec.txt
+gamecore\guns\modern\colt1911\gun_color.dds
+gamecore\guns\modern\colt1911\gun_gloss.dds
+gamecore\guns\modern\colt1911\gun_metalness.dds
+gamecore\guns\modern\colt1911\gun_normal.dds
+gamecore\guns\modern\colt1911\hud.x
+gamecore\guns\modern\colt1911\o_fire.wav
+gamecore\guns\modern\colt1911\o_putaway.wav
+gamecore\guns\modern\colt1911\o_retrieve.wav
+gamecore\guns\modern\colt1911\putaway.wav
+gamecore\guns\modern\colt1911\reload.wav
+gamecore\guns\modern\colt1911\retrieve.wav
+gamecore\guns\modern\colt1911\vweap.dbo
+
+gamecore\guns\modern\colt1911\zoom.wav
+gamecore\ammo\pistol\pistolammo.dbo
+
+gamecore\ammo\pistol\pistolammo_d.dds
+gamecore\ammo\pistol\pistolammo_n.dds
+gamecore\ammo\pistol\pistolammo_s.dds
+gamecore\brass\brass45\brass45.dbo
+
+gamecore\brass\brass45\brass45_ao.dds
+gamecore\brass\brass45\brass45_color.dds
+gamecore\brass\brass45\brass45_d.dds
+gamecore\brass\brass45\brass45_gloss.dds
+gamecore\brass\brass45\brass45_metalness.dds
+gamecore\brass\brass45\brass45_n.dds
+gamecore\brass\brass45\brass45_normal.dds
+gamecore\brass\brass45\brass45_s.dds
+entitybank\_markers\red light.fpe
+entitybank\_markers\lightbulb.dbo
+entitybank\_markers\lightbulb_red_d.tga
+entitybank\_markers\lightbulb_red_n.tga
+entitybank\_markers\lightbulb_red_s.tga
+entitybank\_markers\lightbulb_red_i.tga
+entitybank\_markers\lightbulb_red_o.tga
+entitybank\_markers\lightbulb_red_cube.tga
+scriptbank\light1.lua
+entitybank\\scifi pack\scenery\glass wall.fpe
+entitybank\\scifi pack\scenery\glasswall.dbo
+entitybank\\scifi pack\scenery\
+entitybank\\scifi pack\scenery\observation_tower_d.dds
+entitybank\\scifi pack\scenery\observation_tower_n.dds
+entitybank\\scifi pack\scenery\observation_tower_s.dds
+entitybank\\scifi pack\scenery\observation_tower_i.dds
+entitybank\\scifi pack\scenery\observation_tower_o.dds
+entitybank\\scifi pack\scenery\observation_tower_cube.dds
+entitybank\\scifi pack\scenery\moon lander (crashed).fpe
+entitybank\\scifi pack\scenery\moonlander_crashed.dbo
+entitybank\\scifi pack\scenery\moonlander_crashed_d.dds
+entitybank\\scifi pack\scenery\moonlander_crashed_n.dds
+entitybank\\scifi pack\scenery\moonlander_crashed_s.dds
+entitybank\\scifi pack\scenery\moonlander_crashed_i.dds
+entitybank\\scifi pack\scenery\moonlander_crashed_o.dds
+entitybank\\scifi pack\scenery\moonlander_crashed_cube.dds
+entitybank\\mega pack 03\scenery\urban\car 06 (dkgrey).fpe
+entitybank\\mega pack 03\scenery\urban\carv01.dbo
+entitybank\\mega pack 03\scenery\urban\car01_blue_color.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_normal.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_metalness.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_gloss.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_ao.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_illumination.dds
+entitybank\\mega pack 03\scenery\urban\
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_color.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_albedo.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_normal.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_specular.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_metalness.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_gloss.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_ao.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_height.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_detail.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_illumination.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_emissive.dds
+entitybank\\mega pack 03\scenery\urban\car06_dkgrey_cube.dds
+entitybank\\mega pack 02\cavepack\boulderb.fpe
+entitybank\\mega pack 02\cavepack\boulderb.dbo
+entitybank\\mega pack 02\cavepack\
+entitybank\\mega pack 02\cavepack\rockdeposit_d2.dds
+entitybank\\mega pack 02\cavepack\tresstle.fpe
+entitybank\\mega pack 02\cavepack\tresstle.dbo
+entitybank\\mega pack 02\cavepack\plainwood_d2.dds
+entitybank\\scenery\chainlink fence (single).fpe
+entitybank\\scenery\chainlink fence (single).dbo
+entitybank\\scenery\
+entitybank\\scenery\chainlink fence_color.dds
+entitybank\\scenery\chainlink fence_albedo.dds
+entitybank\\scenery\chainlink fence_normal.dds
+entitybank\\scenery\chainlink fence_specular.dds
+entitybank\\scenery\chainlink fence_metalness.dds
+entitybank\\scenery\chainlink fence_gloss.dds
+entitybank\\scenery\chainlink fence_ao.dds
+entitybank\\scenery\chainlink fence_height.dds
+entitybank\\scenery\chainlink fence_detail.dds
+entitybank\\scenery\chainlink fence_illumination.dds
+entitybank\\scenery\chainlink fence_emissive.dds
+entitybank\\scenery\chainlink fence_cube.dds
+entitybank\\scifi pack\decals\electric spark.fpe
+entitybank\\scifi pack\decals\decal.dbo
+entitybank\\scifi pack\decals\
+entitybank\\scifi pack\decals\electric_spark.dds
+scriptbank\decal_facing.lua
+entitybank\\scenery\barbed fence (single).fpe
+entitybank\\scenery\barbed fence (single).dbo
+entitybank\\scenery\gate_d.dds
+entitybank\\scenery\gate_n.dds
+entitybank\\scenery\gate_s.dds
+entitybank\\scenery\gate_i.dds
+entitybank\\scenery\gate_o.dds
+entitybank\\scenery\gate_cube.dds
+entitybank\\scenery\dumpster (closed).fpe
+entitybank\\scenery\dumpster (closed).dbo
+entitybank\\scenery\dumpster_d.dds
+entitybank\\scenery\dumpster_n.dds
+entitybank\\scenery\dumpster_s.dds
+entitybank\\scenery\dumpster_i.dds
+entitybank\\scenery\dumpster_o.dds
+entitybank\\scenery\dumpster_cube.dds
+entitybank\\mega pack 03\scenery\urban\road 03.fpe
+entitybank\\mega pack 03\scenery\urban\road03.dbo
+entitybank\\mega pack 03\scenery\urban\road03_color.dds
+entitybank\\mega pack 03\scenery\urban\road03_albedo.dds
+entitybank\\mega pack 03\scenery\urban\road03_normal.dds
+entitybank\\mega pack 03\scenery\urban\road03_specular.dds
+entitybank\\mega pack 03\scenery\urban\road03_metalness.dds
+entitybank\\mega pack 03\scenery\urban\road03_gloss.dds
+entitybank\\mega pack 03\scenery\urban\road03_ao.dds
+entitybank\\mega pack 03\scenery\urban\road03_height.dds
+entitybank\\mega pack 03\scenery\urban\road03_detail.dds
+entitybank\\mega pack 03\scenery\urban\road03_illumination.dds
+entitybank\\mega pack 03\scenery\urban\road03_emissive.dds
+entitybank\\mega pack 03\scenery\urban\road03_cube.dds
+entitybank\\weapons\shotgun.fpe
+gamecore\guns\modern\shotgun\shotgun.dbo
+entitybank\\weapons\
+gamecore\guns\modern\shotgun\shotgun_d.dds
+gamecore\guns\modern\shotgun\shotgun_n.dds
+gamecore\guns\modern\shotgun\shotgun_s.dds
+gamecore\guns\modern\shotgun\shotgun_i.dds
+gamecore\guns\modern\shotgun\shotgun_o.dds
+gamecore\guns\modern\shotgun\shotgun_cube.dds
+scriptbank\weapon.lua
+audiobank\misc\weapon.wav
+gamecore\guns\modern\shotgun\crosshair.dds
+gamecore\guns\modern\shotgun\dryfire.wav
+gamecore\guns\modern\shotgun\fire1.wav
+gamecore\guns\modern\shotgun\fire2.wav
+gamecore\guns\modern\shotgun\fire3.wav
+gamecore\guns\modern\shotgun\fire4.wav
+gamecore\guns\modern\shotgun\gunspec.txt
+gamecore\guns\modern\shotgun\gun_color.dds
+gamecore\guns\modern\shotgun\gun_gloss.dds
+gamecore\guns\modern\shotgun\gun_metalness.dds
+gamecore\guns\modern\shotgun\gun_normal.dds
+gamecore\guns\modern\shotgun\hud.x
+gamecore\guns\modern\shotgun\putaway.wav
+gamecore\guns\modern\shotgun\reload.wav
+gamecore\guns\modern\shotgun\retrieve.wav
+
+gamecore\guns\modern\shotgun\vweap.dbo
+
+gamecore\guns\modern\shotgun\zoom.wav
+gamecore\ammo\shotgun\shotgunammo.x
+gamecore\ammo\shotgun\shotgunammo_d.dds
+gamecore\ammo\shotgun\shotgunammo_n.dds
+gamecore\ammo\shotgun\shotgunammo_s.dds
+gamecore\brass\brass12\brass12.dbo
+
+gamecore\brass\brass12\brass12_ao.dds
+gamecore\brass\brass12\brass12_color.dds
+gamecore\brass\brass12\brass12_d.dds
+gamecore\brass\brass12\brass12_gloss.dds
+gamecore\brass\brass12\brass12_metalness.dds
+gamecore\brass\brass12\brass12_n.dds
+gamecore\brass\brass12\brass12_normal.dds
+gamecore\brass\brass12\brass12_s.dds
+entitybank\\fantasy pack\collectables\rune (green).fpe
+entitybank\\fantasy pack\collectables\rune.dbo
+entitybank\\fantasy pack\collectables\
+entitybank\\fantasy pack\collectables\runegreen_color.dds
+entitybank\\fantasy pack\collectables\runegreen_albedo.dds
+entitybank\\fantasy pack\collectables\runegreen_normal.dds
+entitybank\\fantasy pack\collectables\runegreen_specular.dds
+entitybank\\fantasy pack\collectables\runegreen_metalness.dds
+entitybank\\fantasy pack\collectables\runegreen_gloss.dds
+entitybank\\fantasy pack\collectables\runegreen_ao.dds
+entitybank\\fantasy pack\collectables\runegreen_height.dds
+entitybank\\fantasy pack\collectables\runegreen_detail.dds
+entitybank\\fantasy pack\collectables\runegreen_illumination.dds
+entitybank\\fantasy pack\collectables\runegreen_emissive.dds
+entitybank\\fantasy pack\collectables\runegreen_cube.dds
+scriptbank\magic.lua
+audiobank\fantasy\magic.wav
+entitybank\\death valley\scenery\tent\tent_1.fpe
+entitybank\\death valley\scenery\tent\tent_1.dbo
+entitybank\\death valley\scenery\tent\tent_2_d.dds
+entitybank\\death valley\scenery\tent\tent_2_n.dds
+entitybank\\death valley\scenery\tent\tent_2_s.dds
+entitybank\\death valley\scenery\tent\
+entitybank\\death valley\scenery\tent\tent_2_i.dds
+entitybank\\death valley\scenery\tent\tent_2_o.dds
+entitybank\\death valley\scenery\tent\tent_2_cube.dds
+entitybank\\death valley\scenery\crates\crate_8.fpe
+entitybank\\death valley\scenery\crates\crate_8.dbo
+entitybank\\death valley\scenery\crates\plywood_container_d.dds
+entitybank\\death valley\scenery\crates\plywood_container_n.dds
+entitybank\\death valley\scenery\crates\plywood_container_s.dds
+entitybank\\death valley\scenery\crates\
+entitybank\\death valley\scenery\crates\plywood_container_i.dds
+entitybank\\death valley\scenery\crates\plywood_container_o.dds
+entitybank\\death valley\scenery\crates\plywood_container_cube.dds
+entitybank\\mega pack 03\scenery\urban\car 05 (white).fpe
+entitybank\\mega pack 03\scenery\urban\car05_white_color.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_albedo.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_normal.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_specular.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_metalness.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_gloss.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_ao.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_height.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_detail.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_illumination.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_emissive.dds
+entitybank\\mega pack 03\scenery\urban\car05_white_cube.dds
+entitybank\\mega pack 03\scenery\urban\rubbish 02.fpe
+entitybank\\mega pack 03\scenery\urban\rubbish02.dbo
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_d.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_color.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_albedo.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_normal.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_specular.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_metalness.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_gloss.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_ao.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_height.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_detail.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_illumination.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_emissive.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_cube.dds
+entitybank\\mega pack 03\scenery\urban\street light 01.fpe
+entitybank\\mega pack 03\scenery\urban\street_light01.dbo
+entitybank\\mega pack 03\scenery\urban\street_light_d.dds
+entitybank\\mega pack 03\scenery\urban\street_light_color.dds
+entitybank\\mega pack 03\scenery\urban\street_light_albedo.dds
+entitybank\\mega pack 03\scenery\urban\street_light_normal.dds
+entitybank\\mega pack 03\scenery\urban\street_light_specular.dds
+entitybank\\mega pack 03\scenery\urban\street_light_metalness.dds
+entitybank\\mega pack 03\scenery\urban\street_light_gloss.dds
+entitybank\\mega pack 03\scenery\urban\street_light_ao.dds
+entitybank\\mega pack 03\scenery\urban\street_light_height.dds
+entitybank\\mega pack 03\scenery\urban\street_light_detail.dds
+entitybank\\mega pack 03\scenery\urban\street_light_illumination.dds
+entitybank\\mega pack 03\scenery\urban\street_light_emissive.dds
+entitybank\\mega pack 03\scenery\urban\street_light_cube.dds
+entitybank\\mega pack 03\scenery\urban\car 01 (blue).fpe
+entitybank\\mega pack 03\scenery\urban\car01_blue_albedo.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_specular.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_height.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_detail.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_emissive.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_cube.dds
+entitybank\\mega pack 03\scenery\urban\sign 01.fpe
+entitybank\\mega pack 03\scenery\urban\sign01.dbo
+entitybank\\mega pack 03\scenery\urban\signs_d.dds
+entitybank\\mega pack 03\scenery\urban\signs_color.dds
+entitybank\\mega pack 03\scenery\urban\signs_albedo.dds
+entitybank\\mega pack 03\scenery\urban\signs_normal.dds
+entitybank\\mega pack 03\scenery\urban\signs_specular.dds
+entitybank\\mega pack 03\scenery\urban\signs_metalness.dds
+entitybank\\mega pack 03\scenery\urban\signs_gloss.dds
+entitybank\\mega pack 03\scenery\urban\signs_ao.dds
+entitybank\\mega pack 03\scenery\urban\signs_height.dds
+entitybank\\mega pack 03\scenery\urban\signs_detail.dds
+entitybank\\mega pack 03\scenery\urban\signs_illumination.dds
+entitybank\\mega pack 03\scenery\urban\signs_emissive.dds
+entitybank\\mega pack 03\scenery\urban\signs_cube.dds
+entitybank\\mega pack 03\scenery\urban\dumpster.fpe
+entitybank\\mega pack 03\scenery\urban\dumpster.dbo
+entitybank\\mega pack 03\scenery\urban\dumpster_color.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_normal.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_metalness.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_gloss.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_ao.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_illumination.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_albedo.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_specular.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_height.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_detail.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_emissive.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_cube.dds
+entitybank\\mega pack 03\scenery\urban\concrete barrier 04.fpe
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04.dbo
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_color.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_albedo.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_normal.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_specular.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_metalness.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_gloss.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_ao.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_height.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_detail.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_illumination.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_emissive.dds
+entitybank\\mega pack 03\scenery\urban\concrete_barrier04_cube.dds
+levelbank\testmap\header.dat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
