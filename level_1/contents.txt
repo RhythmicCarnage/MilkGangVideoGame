@@ -701,25 +701,20 @@ terrainbank\wasteland\texture_n.dds
 vegbank\dead grass\dead grass.txt
 vegbank\dead grass\grass.dds
 vegbank\dead grass\veg.x
-entitybank\\cityscape\scaffold.fpe
-entitybank\\cityscape\scaffold.dbo
-entitybank\\cityscape\
-entitybank\\cityscape\scaffold_color.dds
-entitybank\\cityscape\scaffold_albedo.dds
-entitybank\\cityscape\scaffold_normal.dds
-entitybank\\cityscape\scaffold_specular.dds
-entitybank\\cityscape\scaffold_metalness.dds
-entitybank\\cityscape\scaffold_gloss.dds
-entitybank\\cityscape\scaffold_ao.dds
-entitybank\\cityscape\scaffold_height.dds
-entitybank\\cityscape\scaffold_detail.dds
-entitybank\\cityscape\scaffold_illumination.dds
-entitybank\\cityscape\scaffold_emissive.dds
-entitybank\\cityscape\scaffold_cube.dds
+entitybank\\furniture\portaloo 2.fpe
+entitybank\\furniture\portaloo.dbo
+entitybank\\furniture\
+entitybank\\furniture\portaloo_v2_d.dds
+entitybank\\furniture\portaloo_v2_n.dds
+entitybank\\furniture\portaloo_v2_s.dds
+entitybank\\furniture\portaloo_v2_i.dds
+entitybank\\furniture\portaloo_v2_o.dds
+entitybank\\furniture\portaloo_v2_cube.dds
 scriptbank\default.lua
 
 entitybank\\cityscape\metal_strut.fpe
 entitybank\\cityscape\metal_strut.dbo
+entitybank\\cityscape\
 entitybank\\cityscape\metal_struts_d.dds
 entitybank\\cityscape\metal_struts_n.dds
 entitybank\\cityscape\metal_struts_s.dds
@@ -737,6 +732,21 @@ entitybank\\cityscape\hangar_cube.dds
 scriptbank\door.lua
 entitybank\\cityscape\concrete_building.fpe
 entitybank\\cityscape\concrete_building.dbo
+entitybank\\mega pack 03\scenery\urban\dumpster.fpe
+entitybank\\mega pack 03\scenery\urban\dumpster.dbo
+entitybank\\mega pack 03\scenery\urban\dumpster_color.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_normal.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_metalness.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_gloss.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_ao.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_illumination.dds
+entitybank\\mega pack 03\scenery\urban\
+entitybank\\mega pack 03\scenery\urban\dumpster_albedo.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_specular.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_height.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_detail.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_emissive.dds
+entitybank\\mega pack 03\scenery\urban\dumpster_cube.dds
 entitybank\\death valley\scenery\cinderblock wall 2.fpe
 entitybank\\death valley\scenery\cinderblock wall 2.dbo
 entitybank\\death valley\scenery\cinderblock_d.dds
@@ -764,6 +774,21 @@ entitybank\\mega pack 03\foliage\park_tree01_detail.dds
 entitybank\\mega pack 03\foliage\park_tree01_illumination.dds
 entitybank\\mega pack 03\foliage\park_tree01_emissive.dds
 entitybank\\mega pack 03\foliage\park_tree01_cube.dds
+entitybank\\mega pack 03\scenery\urban\rubbish 02.fpe
+entitybank\\mega pack 03\scenery\urban\rubbish02.dbo
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_d.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_color.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_albedo.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_normal.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_specular.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_metalness.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_gloss.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_ao.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_height.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_detail.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_illumination.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_emissive.dds
+entitybank\\mega pack 03\scenery\urban\rubbish_v02_cube.dds
 entitybank\\mega pack 03\industrial\industrial (27).fpe
 entitybank\\mega pack 03\industrial\industrial (27).dbo
 entitybank\\mega pack 03\industrial\
@@ -881,17 +906,9 @@ entitybank\_markers\lightbulb_red_i.tga
 entitybank\_markers\lightbulb_red_o.tga
 entitybank\_markers\lightbulb_red_cube.tga
 scriptbank\light1.lua
-entitybank\\scifi pack\scenery\glass wall.fpe
-entitybank\\scifi pack\scenery\glasswall.dbo
-entitybank\\scifi pack\scenery\
-entitybank\\scifi pack\scenery\observation_tower_d.dds
-entitybank\\scifi pack\scenery\observation_tower_n.dds
-entitybank\\scifi pack\scenery\observation_tower_s.dds
-entitybank\\scifi pack\scenery\observation_tower_i.dds
-entitybank\\scifi pack\scenery\observation_tower_o.dds
-entitybank\\scifi pack\scenery\observation_tower_cube.dds
 entitybank\\scifi pack\scenery\moon lander (crashed).fpe
 entitybank\\scifi pack\scenery\moonlander_crashed.dbo
+entitybank\\scifi pack\scenery\
 entitybank\\scifi pack\scenery\moonlander_crashed_d.dds
 entitybank\\scifi pack\scenery\moonlander_crashed_n.dds
 entitybank\\scifi pack\scenery\moonlander_crashed_s.dds
@@ -906,7 +923,6 @@ entitybank\\mega pack 03\scenery\urban\car01_blue_metalness.dds
 entitybank\\mega pack 03\scenery\urban\car01_blue_gloss.dds
 entitybank\\mega pack 03\scenery\urban\car01_blue_ao.dds
 entitybank\\mega pack 03\scenery\urban\car01_blue_illumination.dds
-entitybank\\mega pack 03\scenery\urban\
 entitybank\\mega pack 03\scenery\urban\car06_dkgrey_color.dds
 entitybank\\mega pack 03\scenery\urban\car06_dkgrey_albedo.dds
 entitybank\\mega pack 03\scenery\urban\car06_dkgrey_normal.dds
@@ -919,13 +935,141 @@ entitybank\\mega pack 03\scenery\urban\car06_dkgrey_detail.dds
 entitybank\\mega pack 03\scenery\urban\car06_dkgrey_illumination.dds
 entitybank\\mega pack 03\scenery\urban\car06_dkgrey_emissive.dds
 entitybank\\mega pack 03\scenery\urban\car06_dkgrey_cube.dds
-entitybank\\mega pack 02\cavepack\boulderb.fpe
-entitybank\\mega pack 02\cavepack\boulderb.dbo
-entitybank\\mega pack 02\cavepack\
-entitybank\\mega pack 02\cavepack\rockdeposit_d2.dds
+entitybank\\scifi pack\scenery\glass wall.fpe
+entitybank\\scifi pack\scenery\glasswall.dbo
+entitybank\\scifi pack\scenery\observation_tower_d.dds
+entitybank\\scifi pack\scenery\observation_tower_n.dds
+entitybank\\scifi pack\scenery\observation_tower_s.dds
+entitybank\\scifi pack\scenery\observation_tower_i.dds
+entitybank\\scifi pack\scenery\observation_tower_o.dds
+entitybank\\scifi pack\scenery\observation_tower_cube.dds
+entitybank\\mega pack 03\scenery\urban\car 01 (blue).fpe
+entitybank\\mega pack 03\scenery\urban\car01_blue_albedo.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_specular.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_height.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_detail.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_emissive.dds
+entitybank\\mega pack 03\scenery\urban\car01_blue_cube.dds
+entitybank\\mega pack 03\scenery\urban\road 03.fpe
+entitybank\\mega pack 03\scenery\urban\road03.dbo
+entitybank\\mega pack 03\scenery\urban\road03_color.dds
+entitybank\\mega pack 03\scenery\urban\road03_albedo.dds
+entitybank\\mega pack 03\scenery\urban\road03_normal.dds
+entitybank\\mega pack 03\scenery\urban\road03_specular.dds
+entitybank\\mega pack 03\scenery\urban\road03_metalness.dds
+entitybank\\mega pack 03\scenery\urban\road03_gloss.dds
+entitybank\\mega pack 03\scenery\urban\road03_ao.dds
+entitybank\\mega pack 03\scenery\urban\road03_height.dds
+entitybank\\mega pack 03\scenery\urban\road03_detail.dds
+entitybank\\mega pack 03\scenery\urban\road03_illumination.dds
+entitybank\\mega pack 03\scenery\urban\road03_emissive.dds
+entitybank\\mega pack 03\scenery\urban\road03_cube.dds
+entitybank\\cityscapepbr\concrete wall tall.fpe
+entitybank\\cityscapepbr\concrete wall tall.dbo
+entitybank\\cityscapepbr\concrete wall_color.dds
+entitybank\\cityscapepbr\concrete wall_normal.dds
+entitybank\\cityscapepbr\concrete wall_metalness.dds
+entitybank\\cityscapepbr\concrete wall_gloss.dds
+entitybank\\cityscapepbr\concrete wall_ao.dds
+entitybank\\cityscapepbr\concrete wall_illumination.dds
+entitybank\\cityscapepbr\
+entitybank\\cityscapepbr\concrete wall_albedo.dds
+entitybank\\cityscapepbr\concrete wall_specular.dds
+entitybank\\cityscapepbr\concrete wall_height.dds
+entitybank\\cityscapepbr\concrete wall_detail.dds
+entitybank\\cityscapepbr\concrete wall_emissive.dds
+entitybank\\cityscapepbr\concrete wall_cube.dds
 entitybank\\mega pack 02\cavepack\tresstle.fpe
 entitybank\\mega pack 02\cavepack\tresstle.dbo
 entitybank\\mega pack 02\cavepack\plainwood_d2.dds
+entitybank\\mega pack 02\cavepack\
+entitybank\\scifi pack\weapons\futuretek shotgun.fpe
+gamecore\guns\futuristic\futuretekshotgun\futuretekshotgun.dbo
+entitybank\\scifi pack\weapons\
+gamecore\guns\futuristic\futuretekshotgun\gun_d.dds
+gamecore\guns\futuristic\futuretekshotgun\gun_n.dds
+gamecore\guns\futuristic\futuretekshotgun\gun_s.dds
+gamecore\guns\futuristic\futuretekshotgun\gun_i.dds
+gamecore\guns\futuristic\futuretekshotgun\gun_o.dds
+gamecore\guns\futuristic\futuretekshotgun\gun_cube.dds
+scriptbank\weapon.lua
+audiobank\misc\weapon.wav
+gamecore\guns\futuristic\futuretekshotgun\body_d.dds
+gamecore\guns\futuristic\futuretekshotgun\body_d2.dds
+gamecore\guns\futuristic\futuretekshotgun\body_n.dds
+gamecore\guns\futuristic\futuretekshotgun\body_s.dds
+gamecore\guns\futuristic\futuretekshotgun\crosshair.dds
+gamecore\guns\futuristic\futuretekshotgun\dryfire.wav
+gamecore\guns\futuristic\futuretekshotgun\fire.wav
+
+gamecore\guns\futuristic\futuretekshotgun\gunspec.txt
+gamecore\guns\futuristic\futuretekshotgun\gun_d2.dds
+gamecore\guns\futuristic\futuretekshotgun\hud.x
+gamecore\guns\futuristic\futuretekshotgun\hud_icon.dds
+gamecore\guns\futuristic\futuretekshotgun\putaway.wav
+gamecore\guns\futuristic\futuretekshotgun\reload.wav
+gamecore\guns\futuristic\futuretekshotgun\retrieve.wav
+gamecore\guns\futuristic\futuretekshotgun\vweap.x
+gamecore\ammo\futuretekshotgun\futuretekshotgun_ammo.dbo
+
+entitybank\\weapons\rpg.fpe
+gamecore\guns\modern\rpg\rpg.dbo
+entitybank\\weapons\
+gamecore\guns\modern\rpg\rpg_d.dds
+gamecore\guns\modern\rpg\rpg_n.dds
+gamecore\guns\modern\rpg\rpg_s.dds
+gamecore\guns\modern\rpg\rpg_i.dds
+gamecore\guns\modern\rpg\rpg_o.dds
+gamecore\guns\modern\rpg\rpg_cube.dds
+gamecore\guns\modern\rpg\crosshair.dds
+gamecore\guns\modern\rpg\dryfire.wav
+gamecore\guns\modern\rpg\fire.wav
+gamecore\guns\modern\rpg\fire1.wav
+gamecore\guns\modern\rpg\fire2.wav
+gamecore\guns\modern\rpg\fire3.wav
+gamecore\guns\modern\rpg\fire4.wav
+gamecore\guns\modern\rpg\gunspec.txt
+gamecore\guns\modern\rpg\gun_color.dds
+gamecore\guns\modern\rpg\gun_gloss.dds
+gamecore\guns\modern\rpg\gun_metalness.dds
+gamecore\guns\modern\rpg\gun_normal.dds
+gamecore\guns\modern\rpg\hud.x
+gamecore\guns\modern\rpg\projectile.x
+gamecore\guns\modern\rpg\putaway.wav
+gamecore\guns\modern\rpg\reload.wav
+gamecore\guns\modern\rpg\retrieve.wav
+
+gamecore\guns\modern\rpg\vweap.x
+gamecore\guns\modern\rpg\zoom.wav
+gamecore\guns\modern\rpg\zoomout.wav
+gamecore\ammo\rpg\rpgammo.x
+gamecore\ammo\rpg\rpgammo_d.dds
+gamecore\ammo\rpg\rpgammo_n.dds
+gamecore\ammo\rpg\rpgammo_s.dds
+entitybank\\scifi pack\interiors\room 1 (white).fpe
+entitybank\\scifi pack\interiors\corridorsroom1.dbo
+entitybank\\scifi pack\interiors\
+entitybank\\scifi pack\interiors\corridorstraight1_white_d.dds
+entitybank\\scifi pack\interiors\corridorstraight1_white_n.dds
+entitybank\\scifi pack\interiors\corridorstraight1_white_s.dds
+entitybank\\scifi pack\interiors\corridorstraight1_white_i.dds
+entitybank\\scifi pack\interiors\corridorstraight1_white_o.dds
+entitybank\\scifi pack\interiors\corridorstraight1_white_cube.dds
+entitybank\_markers\hurt zone.fpe
+entitybank\_markers\cubehurt.dbo
+entitybank\_markers\cube_hurt_d.dds
+entitybank\_markers\cube_hurt_n.dds
+entitybank\_markers\cube_hurt_s.dds
+entitybank\_markers\cube_hurt_i.dds
+entitybank\_markers\cube_hurt_o.dds
+entitybank\_markers\cube_hurt_cube.dds
+scriptbank\hurt.lua
+audiobank\misc\soundtrigger.wav
+entitybank\_markers\text zone.fpe
+entitybank\_markers\triggerzone.dbo
+entitybank\_markers\triggerzone.dds
+scriptbank\markers\textinzone.lua
+you have recovered a strange artifact...
 entitybank\\scenery\chainlink fence (single).fpe
 entitybank\\scenery\chainlink fence (single).dbo
 entitybank\\scenery\
@@ -962,31 +1106,44 @@ entitybank\\scenery\dumpster_s.dds
 entitybank\\scenery\dumpster_i.dds
 entitybank\\scenery\dumpster_o.dds
 entitybank\\scenery\dumpster_cube.dds
-entitybank\\mega pack 03\scenery\urban\road 03.fpe
-entitybank\\mega pack 03\scenery\urban\road03.dbo
-entitybank\\mega pack 03\scenery\urban\road03_color.dds
-entitybank\\mega pack 03\scenery\urban\road03_albedo.dds
-entitybank\\mega pack 03\scenery\urban\road03_normal.dds
-entitybank\\mega pack 03\scenery\urban\road03_specular.dds
-entitybank\\mega pack 03\scenery\urban\road03_metalness.dds
-entitybank\\mega pack 03\scenery\urban\road03_gloss.dds
-entitybank\\mega pack 03\scenery\urban\road03_ao.dds
-entitybank\\mega pack 03\scenery\urban\road03_height.dds
-entitybank\\mega pack 03\scenery\urban\road03_detail.dds
-entitybank\\mega pack 03\scenery\urban\road03_illumination.dds
-entitybank\\mega pack 03\scenery\urban\road03_emissive.dds
-entitybank\\mega pack 03\scenery\urban\road03_cube.dds
+entitybank\\construction site pack\tarp 2.fpe
+entitybank\\construction site pack\tarp2.dbo
+entitybank\\construction site pack\
+entitybank\\construction site pack\tarp_color.png
+entitybank\\construction site pack\tarp_albedo.png
+entitybank\\construction site pack\tarp_normal.png
+entitybank\\construction site pack\tarp_specular.png
+entitybank\\construction site pack\tarp_metalness.png
+entitybank\\construction site pack\tarp_gloss.png
+entitybank\\construction site pack\tarp_ao.png
+entitybank\\construction site pack\tarp_height.png
+entitybank\\construction site pack\tarp_detail.png
+entitybank\\construction site pack\tarp_illumination.png
+entitybank\\construction site pack\tarp_emissive.png
+entitybank\\construction site pack\tarp_cube.png
+entitybank\\construction site pack\tarp_color.dds
+entitybank\\construction site pack\tarp_albedo.dds
+entitybank\\construction site pack\tarp_normal.dds
+entitybank\\construction site pack\tarp_specular.dds
+entitybank\\construction site pack\tarp_metalness.dds
+entitybank\\construction site pack\tarp_gloss.dds
+entitybank\\construction site pack\tarp_ao.dds
+entitybank\\construction site pack\tarp_height.dds
+entitybank\\construction site pack\tarp_detail.dds
+entitybank\\construction site pack\tarp_illumination.dds
+entitybank\\construction site pack\tarp_emissive.dds
+entitybank\\construction site pack\tarp_cube.dds
+entitybank\\mega pack 02\cavepack\boulderb.fpe
+entitybank\\mega pack 02\cavepack\boulderb.dbo
+entitybank\\mega pack 02\cavepack\rockdeposit_d2.dds
 entitybank\\weapons\shotgun.fpe
 gamecore\guns\modern\shotgun\shotgun.dbo
-entitybank\\weapons\
 gamecore\guns\modern\shotgun\shotgun_d.dds
 gamecore\guns\modern\shotgun\shotgun_n.dds
 gamecore\guns\modern\shotgun\shotgun_s.dds
 gamecore\guns\modern\shotgun\shotgun_i.dds
 gamecore\guns\modern\shotgun\shotgun_o.dds
 gamecore\guns\modern\shotgun\shotgun_cube.dds
-scriptbank\weapon.lua
-audiobank\misc\weapon.wav
 gamecore\guns\modern\shotgun\crosshair.dds
 gamecore\guns\modern\shotgun\dryfire.wav
 gamecore\guns\modern\shotgun\fire1.wav
@@ -1020,23 +1177,10 @@ gamecore\brass\brass12\brass12_metalness.dds
 gamecore\brass\brass12\brass12_n.dds
 gamecore\brass\brass12\brass12_normal.dds
 gamecore\brass\brass12\brass12_s.dds
-entitybank\\fantasy pack\collectables\rune (green).fpe
-entitybank\\fantasy pack\collectables\rune.dbo
-entitybank\\fantasy pack\collectables\
-entitybank\\fantasy pack\collectables\runegreen_color.dds
-entitybank\\fantasy pack\collectables\runegreen_albedo.dds
-entitybank\\fantasy pack\collectables\runegreen_normal.dds
-entitybank\\fantasy pack\collectables\runegreen_specular.dds
-entitybank\\fantasy pack\collectables\runegreen_metalness.dds
-entitybank\\fantasy pack\collectables\runegreen_gloss.dds
-entitybank\\fantasy pack\collectables\runegreen_ao.dds
-entitybank\\fantasy pack\collectables\runegreen_height.dds
-entitybank\\fantasy pack\collectables\runegreen_detail.dds
-entitybank\\fantasy pack\collectables\runegreen_illumination.dds
-entitybank\\fantasy pack\collectables\runegreen_emissive.dds
-entitybank\\fantasy pack\collectables\runegreen_cube.dds
-scriptbank\magic.lua
-audiobank\fantasy\magic.wav
+entitybank\_markers\player checkpoint.fpe
+entitybank\_markers\player checkpoint.dds
+scriptbank\checkpoint.lua
+audiobank\misc\checkpoint.wav
 entitybank\\death valley\scenery\tent\tent_1.fpe
 entitybank\\death valley\scenery\tent\tent_1.dbo
 entitybank\\death valley\scenery\tent\tent_2_d.dds
@@ -1068,21 +1212,6 @@ entitybank\\mega pack 03\scenery\urban\car05_white_detail.dds
 entitybank\\mega pack 03\scenery\urban\car05_white_illumination.dds
 entitybank\\mega pack 03\scenery\urban\car05_white_emissive.dds
 entitybank\\mega pack 03\scenery\urban\car05_white_cube.dds
-entitybank\\mega pack 03\scenery\urban\rubbish 02.fpe
-entitybank\\mega pack 03\scenery\urban\rubbish02.dbo
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_d.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_color.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_albedo.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_normal.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_specular.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_metalness.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_gloss.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_ao.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_height.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_detail.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_illumination.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_emissive.dds
-entitybank\\mega pack 03\scenery\urban\rubbish_v02_cube.dds
 entitybank\\mega pack 03\scenery\urban\street light 01.fpe
 entitybank\\mega pack 03\scenery\urban\street_light01.dbo
 entitybank\\mega pack 03\scenery\urban\street_light_d.dds
@@ -1098,13 +1227,6 @@ entitybank\\mega pack 03\scenery\urban\street_light_detail.dds
 entitybank\\mega pack 03\scenery\urban\street_light_illumination.dds
 entitybank\\mega pack 03\scenery\urban\street_light_emissive.dds
 entitybank\\mega pack 03\scenery\urban\street_light_cube.dds
-entitybank\\mega pack 03\scenery\urban\car 01 (blue).fpe
-entitybank\\mega pack 03\scenery\urban\car01_blue_albedo.dds
-entitybank\\mega pack 03\scenery\urban\car01_blue_specular.dds
-entitybank\\mega pack 03\scenery\urban\car01_blue_height.dds
-entitybank\\mega pack 03\scenery\urban\car01_blue_detail.dds
-entitybank\\mega pack 03\scenery\urban\car01_blue_emissive.dds
-entitybank\\mega pack 03\scenery\urban\car01_blue_cube.dds
 entitybank\\mega pack 03\scenery\urban\sign 01.fpe
 entitybank\\mega pack 03\scenery\urban\sign01.dbo
 entitybank\\mega pack 03\scenery\urban\signs_d.dds
@@ -1120,20 +1242,6 @@ entitybank\\mega pack 03\scenery\urban\signs_detail.dds
 entitybank\\mega pack 03\scenery\urban\signs_illumination.dds
 entitybank\\mega pack 03\scenery\urban\signs_emissive.dds
 entitybank\\mega pack 03\scenery\urban\signs_cube.dds
-entitybank\\mega pack 03\scenery\urban\dumpster.fpe
-entitybank\\mega pack 03\scenery\urban\dumpster.dbo
-entitybank\\mega pack 03\scenery\urban\dumpster_color.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_normal.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_metalness.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_gloss.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_ao.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_illumination.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_albedo.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_specular.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_height.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_detail.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_emissive.dds
-entitybank\\mega pack 03\scenery\urban\dumpster_cube.dds
 entitybank\\mega pack 03\scenery\urban\concrete barrier 04.fpe
 entitybank\\mega pack 03\scenery\urban\concrete_barrier04.dbo
 entitybank\\mega pack 03\scenery\urban\concrete_barrier04_color.dds
@@ -1148,35 +1256,177 @@ entitybank\\mega pack 03\scenery\urban\concrete_barrier04_detail.dds
 entitybank\\mega pack 03\scenery\urban\concrete_barrier04_illumination.dds
 entitybank\\mega pack 03\scenery\urban\concrete_barrier04_emissive.dds
 entitybank\\mega pack 03\scenery\urban\concrete_barrier04_cube.dds
+entitybank\\construction site pack\roadblock 1.fpe
+entitybank\\construction site pack\roadblock1.dbo
+entitybank\\construction site pack\roadblock_color.png
+entitybank\\construction site pack\roadblock_albedo.png
+entitybank\\construction site pack\roadblock_normal.png
+entitybank\\construction site pack\roadblock_specular.png
+entitybank\\construction site pack\roadblock_metalness.png
+entitybank\\construction site pack\roadblock_gloss.png
+entitybank\\construction site pack\roadblock_ao.png
+entitybank\\construction site pack\roadblock_height.png
+entitybank\\construction site pack\roadblock_detail.png
+entitybank\\construction site pack\roadblock_illumination.png
+entitybank\\construction site pack\roadblock_emissive.png
+entitybank\\construction site pack\roadblock_cube.png
+entitybank\\construction site pack\roadblock_color.dds
+entitybank\\construction site pack\roadblock_albedo.dds
+entitybank\\construction site pack\roadblock_normal.dds
+entitybank\\construction site pack\roadblock_specular.dds
+entitybank\\construction site pack\roadblock_metalness.dds
+entitybank\\construction site pack\roadblock_gloss.dds
+entitybank\\construction site pack\roadblock_ao.dds
+entitybank\\construction site pack\roadblock_height.dds
+entitybank\\construction site pack\roadblock_detail.dds
+entitybank\\construction site pack\roadblock_illumination.dds
+entitybank\\construction site pack\roadblock_emissive.dds
+entitybank\\construction site pack\roadblock_cube.dds
+entitybank\\construction site pack\construction fence.fpe
+entitybank\\construction site pack\construction_fence.dbo
+entitybank\\construction site pack\construction_fence_color.png
+entitybank\\construction site pack\construction_fence_albedo.png
+entitybank\\construction site pack\construction_fence_normal.png
+entitybank\\construction site pack\construction_fence_specular.png
+entitybank\\construction site pack\construction_fence_metalness.png
+entitybank\\construction site pack\construction_fence_gloss.png
+entitybank\\construction site pack\construction_fence_ao.png
+entitybank\\construction site pack\construction_fence_height.png
+entitybank\\construction site pack\construction_fence_detail.png
+entitybank\\construction site pack\construction_fence_illumination.png
+entitybank\\construction site pack\construction_fence_emissive.png
+entitybank\\construction site pack\construction_fence_cube.png
+entitybank\\construction site pack\construction_fence_color.dds
+entitybank\\construction site pack\construction_fence_albedo.dds
+entitybank\\construction site pack\construction_fence_normal.dds
+entitybank\\construction site pack\construction_fence_specular.dds
+entitybank\\construction site pack\construction_fence_metalness.dds
+entitybank\\construction site pack\construction_fence_gloss.dds
+entitybank\\construction site pack\construction_fence_ao.dds
+entitybank\\construction site pack\construction_fence_height.dds
+entitybank\\construction site pack\construction_fence_detail.dds
+entitybank\\construction site pack\construction_fence_illumination.dds
+entitybank\\construction site pack\construction_fence_emissive.dds
+entitybank\\construction site pack\construction_fence_cube.dds
+entitybank\\scifi pack\scenery\holo table head.fpe
+entitybank\\scifi pack\scenery\hollotable_head.dbo
+entitybank\\scifi pack\scenery\hollodesk1_d.dds
+entitybank\\scifi pack\scenery\hollodesk1_n.dds
+entitybank\\scifi pack\scenery\hollodesk1_s.dds
+entitybank\\scifi pack\scenery\hollodesk1_i.dds
+entitybank\\scifi pack\scenery\hollodesk1_o.dds
+entitybank\\scifi pack\scenery\hollodesk1_cube.dds
+entitybank\_markers\yellow light spot.fpe
+entitybank\_markers\lightbulbspot.dbo
+entitybank\_markers\lightbulb_white_d.png
+entitybank\_markers\lightbulb_white_d.dds
+entitybank\_markers\lightbulb_yellow_d.dds
+entitybank\_markers\lightbulb_yellow_n.dds
+entitybank\_markers\lightbulb_yellow_s.dds
+entitybank\_markers\lightbulb_yellow_i.dds
+entitybank\_markers\lightbulb_yellow_o.dds
+entitybank\_markers\lightbulb_yellow_cube.dds
+entitybank\\buildings pack\grunge building (1).fpe
+entitybank\\buildings pack\grunge_building1.dbo
+entitybank\\buildings pack\grunge_building1_d.dds
+entitybank\\buildings pack\grunge_building1_n.dds
+entitybank\\buildings pack\grunge_building1_s.dds
+entitybank\\buildings pack\
+entitybank\\buildings pack\grunge_building1_color.dds
+entitybank\\buildings pack\grunge_building1_albedo.dds
+entitybank\\buildings pack\grunge_building1_normal.dds
+entitybank\\buildings pack\grunge_building1_specular.dds
+entitybank\\buildings pack\grunge_building1_metalness.dds
+entitybank\\buildings pack\grunge_building1_gloss.dds
+entitybank\\buildings pack\grunge_building1_ao.dds
+entitybank\\buildings pack\grunge_building1_height.dds
+entitybank\\buildings pack\grunge_building1_detail.dds
+entitybank\\buildings pack\grunge_building1_illumination.dds
+entitybank\\buildings pack\grunge_building1_emissive.dds
+entitybank\\buildings pack\grunge_building1_cube.dds
+entitybank\\buildings pack\grunge building (2).fpe
+entitybank\\buildings pack\grunge_building2.dbo
+entitybank\\buildings pack\grunge_building2_d.dds
+entitybank\\buildings pack\grunge_building2_n.dds
+entitybank\\buildings pack\grunge_building2_s.dds
+entitybank\\buildings pack\grunge_building2_color.dds
+entitybank\\buildings pack\grunge_building2_albedo.dds
+entitybank\\buildings pack\grunge_building2_normal.dds
+entitybank\\buildings pack\grunge_building2_specular.dds
+entitybank\\buildings pack\grunge_building2_metalness.dds
+entitybank\\buildings pack\grunge_building2_gloss.dds
+entitybank\\buildings pack\grunge_building2_ao.dds
+entitybank\\buildings pack\grunge_building2_height.dds
+entitybank\\buildings pack\grunge_building2_detail.dds
+entitybank\\buildings pack\grunge_building2_illumination.dds
+entitybank\\buildings pack\grunge_building2_emissive.dds
+entitybank\\buildings pack\grunge_building2_cube.dds
+entitybank\_markers\cover zone.fpe
+entitybank\_markers\cover zone.dds
+scriptbank\coverzone.lua
+entitybank\\foliage\tree 10 (animated).fpe
+entitybank\\foliage\tree10.dbo
+entitybank\\foliage\tree10_d.dds
+entitybank\\foliage\tree10_n.dds
+entitybank\\foliage\tree10_s.dds
+entitybank\\foliage\
+entitybank\\foliage\tree10_i.dds
+entitybank\\foliage\tree10_o.dds
+entitybank\\foliage\tree10_cube.dds
+entitybank\\decals\white smoke.fpe
+entitybank\\decals\decal.dbo
+entitybank\\decals\
+entitybank\\decals\white smoke.dds
+entitybank\\mega pack 02\decals\emissions\black smoke.fpe
+entitybank\\mega pack 02\decals\emissions\decal.dbo
+entitybank\\mega pack 02\decals\emissions\
+entitybank\\mega pack 02\decals\emissions\black smoke.dds
+entitybank\\mega pack 03\scenery\urban\kerb.fpe
+entitybank\\mega pack 03\scenery\urban\kerb.dbo
+entitybank\\mega pack 03\scenery\urban\kerb_color.dds
+entitybank\\mega pack 03\scenery\urban\kerb_albedo.dds
+entitybank\\mega pack 03\scenery\urban\kerb_normal.dds
+entitybank\\mega pack 03\scenery\urban\kerb_specular.dds
+entitybank\\mega pack 03\scenery\urban\kerb_metalness.dds
+entitybank\\mega pack 03\scenery\urban\kerb_gloss.dds
+entitybank\\mega pack 03\scenery\urban\kerb_ao.dds
+entitybank\\mega pack 03\scenery\urban\kerb_height.dds
+entitybank\\mega pack 03\scenery\urban\kerb_detail.dds
+entitybank\\mega pack 03\scenery\urban\kerb_illumination.dds
+entitybank\\mega pack 03\scenery\urban\kerb_emissive.dds
+entitybank\\mega pack 03\scenery\urban\kerb_cube.dds
+entitybank\\scifi pack\weapons\futuretek shotgun ammo.fpe
+scriptbank\ammo.lua
+entitybank\\scifi pack\collectables\artefact.fpe
+entitybank\\scifi pack\collectables\artifact.dbo
+entitybank\\scifi pack\collectables\
+entitybank\\scifi pack\collectables\artifact_d.dds
+entitybank\\scifi pack\collectables\artifact_n.dds
+entitybank\\scifi pack\collectables\artifact_s.dds
+entitybank\\scifi pack\collectables\artifact_i.dds
+entitybank\\scifi pack\collectables\artifact_o.dds
+entitybank\\scifi pack\collectables\artifact_cube.dds
+scriptbank\scifi\artefact.lua
+entitybank\\scifi pack\interiors\cap (white).fpe
+entitybank\\scifi pack\interiors\corridorcap1.dbo
+entitybank\\scifi pack\interiors\door (base).fpe
+entitybank\\scifi pack\interiors\corridordoor1.dbo
+entitybank\\scifi pack\interiors\corridordoor1_d.dds
+entitybank\\scifi pack\interiors\corridordoor1_n.dds
+entitybank\\scifi pack\interiors\corridordoor1_s.dds
+entitybank\\scifi pack\interiors\corridordoor1_i.dds
+entitybank\\scifi pack\interiors\corridordoor1_o.dds
+entitybank\\scifi pack\interiors\corridordoor1_cube.dds
+scriptbank\scifi\blastdoor.lua
+entitybank\\scifi pack\scenery\solar array.fpe
+entitybank\\scifi pack\scenery\solarrow.dbo
+entitybank\\scifi pack\scenery\solar_d.dds
+entitybank\\scifi pack\scenery\solar_n.dds
+entitybank\\scifi pack\scenery\solar_s.dds
+entitybank\\scifi pack\scenery\solar_i.dds
+entitybank\\scifi pack\scenery\solar_o.dds
+entitybank\\scifi pack\scenery\solar_cube.dds
 levelbank\testmap\header.dat
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
